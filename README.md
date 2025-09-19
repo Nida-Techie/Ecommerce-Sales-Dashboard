@@ -2,9 +2,13 @@
 Interactive Power BI dashboard for analyzing Ecommerce sales, profit, and customer insights.
 
 **Features**
+
 AOV (Average Order Value): 121K
+
 Profit: 37K
+
 Quantity Sold: 5615
+
 Total Sales Amount: 438K
 
 **Visual Insights:**
