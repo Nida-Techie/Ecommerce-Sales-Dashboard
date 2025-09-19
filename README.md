@@ -26,3 +26,7 @@ Interactive Power BI dashboard for analyzing Ecommerce sales, profit, and custom
 - Power BI Desktop – Data visualization and dashboard creation  
 - Data Source – E-commerce sales dataset (CSV/Excel)  
 
+## Dashboard Preview  
+
+![Dashboard Screenshot](Screenshot/Screenshot (105).png)
+
