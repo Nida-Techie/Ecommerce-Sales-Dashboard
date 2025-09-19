@@ -1,15 +1,12 @@
 # Ecommerce-Sales-Dashboard
 Interactive Power BI dashboard for analyzing Ecommerce sales, profit, and customer insights.
 
-**Features**
+**Key Metrics:**
+- AOV (Average Order Value): 121K  
+- Profit: 37K  
+- Quantity Sold: 5615  
+- Total Sales Amount: 438K  
 
-AOV (Average Order Value): 121K
-
-Profit: 37K
-
-Quantity Sold: 5615
-
-Total Sales Amount: 438K
 
 **Visual Insights:**
 - Profit by Month – Monthly trend of profit from January to December  
@@ -21,9 +18,11 @@ Total Sales Amount: 438K
 
 
 **Filters Available:**
-Quarter filter (Q1, Q2, Q3, Q4)
-State filter
+- Quarter filter (Q1, Q2, Q3, Q4)  
+- State filter  
+
 
 **Tools Used:**
-Power BI Desktop – Data visualization and dashboard creation
-Data Source – E-commerce sales dataset (CSV/Excel)
+- Power BI Desktop – Data visualization and dashboard creation  
+- Data Source – E-commerce sales dataset (CSV/Excel)  
+
