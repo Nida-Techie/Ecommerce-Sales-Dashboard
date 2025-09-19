@@ -28,5 +28,6 @@ Interactive Power BI dashboard for analyzing Ecommerce sales, profit, and custom
 
 ## Dashboard Preview  
 
-![Dashboard Screenshot](Screenshot/Screenshot (105).png)
+![Dashboard Screenshot](Images/dashboard_preview.png)
+
 
